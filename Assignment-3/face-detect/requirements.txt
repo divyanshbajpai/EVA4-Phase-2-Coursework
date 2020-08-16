@@ -1,0 +1,4 @@
+requests_toolbelt
+dlib==19.21.0
+opencv-python-headless
+Pillow==7.2.0
